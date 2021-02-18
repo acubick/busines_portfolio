@@ -1,0 +1,6 @@
+@import "./_mixins/font-face";
+@include font-face(Lato-Bold, "../../fonts/Lato-Bold/Lato-Bold", bold);
+@include font-face( Lato-BoldItalic, "../../fonts/Lato-BoldItalic/Lato-BoldItalic");
+@include font-face(Lato-Hairline, "../../fonts/Lato-Hairline/Lato-Hairline");
+@include font-face(Lato-Light, "../../fonts/Lato-Light/Lato-Light");
+@include font-face( Lato-Regular, "../../fonts/Lato-Regular/Lato-Regular", 500, normal);
